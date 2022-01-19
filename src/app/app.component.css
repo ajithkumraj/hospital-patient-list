@@ -1,0 +1,28 @@
+/* body {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  line-height: 0.75;
+  background-color: rgb(52, 214, 160);
+} */
+table {
+  width: 100%;
+}
+
+button {
+  margin: 16px 8px;
+}
+
+.mat-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+table {
+  background-color: rgb(239, 253, 242);
+}
+p{
+  text-align: right;
+}
+h2{
+  text-align: center;
+  background-color: aqua;
+}
+
